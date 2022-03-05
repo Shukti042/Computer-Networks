@@ -1,0 +1,97 @@
+The log file:
+
+-----------------------------------------
+
+GET / HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:38:40 BDT 2020
+Content-Type: text/html
+Content-Length: 92
+
+<html> <link rel="icon" href="data:,"><a href="http://localhost:6789/root"> root <a/></html>
+
+-----------------------------------------
+
+GET /root HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:38:41 BDT 2020
+Content-Type: text/html
+Content-Length: 396
+
+<html> <link rel="icon" href="data:,"><a href="http://localhost:6789/root/assignment_1.pdf" download="assignment_1.pdf" > assignment_1.pdf </a><br><a href="http://localhost:6789/root/dir1" > <b> dir1 </b> </a><br><a href="http://localhost:6789/root/doc1.docx" download="doc1.docx" > doc1.docx </a><br><a href="http://localhost:6789/root/file1.txt" download="file1.txt" > file1.txt </a><br></html>
+
+-----------------------------------------
+
+GET /root/assignment_1.pdf HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:38:48 BDT 2020
+Content-Type: application/force-download
+Content-Length: 595968
+
+root\assignment_1.pdf
+
+-----------------------------------------
+
+GET /root/dir1 HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:38:52 BDT 2020
+Content-Type: text/html
+Content-Length: 407
+
+<html> <link rel="icon" href="data:,"><a href="http://localhost:6789/root/dir1/dir2" > <b> dir2 </b> </a><br><a href="http://localhost:6789/root/dir1/file2.txt" download="file2.txt" > file2.txt </a><br><a href="http://localhost:6789/root/dir1/imgsend.jpg" download="imgsend.jpg" > imgsend.jpg </a><br><a href="http://localhost:6789/root/dir1/pdfsend.pdf" download="pdfsend.pdf" > pdfsend.pdf </a><br></html>
+
+-----------------------------------------
+
+GET /root/dir1/pdfsend.pdf HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:38:53 BDT 2020
+Content-Type: application/force-download
+Content-Length: 633428
+
+root\dir1\pdfsend.pdf
+
+-----------------------------------------
+
+GET /root/ HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:40:22 BDT 2020
+Content-Type: text/html
+Content-Length: 531
+
+<html> <link rel="icon" href="data:,"><a href="http://localhost:6789/root//12 Years Of Slavery.mp4" download="12 Years Of Slavery.mp4" > 12 Years Of Slavery.mp4 </a><br><a href="http://localhost:6789/root//assignment_1.pdf" download="assignment_1.pdf" > assignment_1.pdf </a><br><a href="http://localhost:6789/root//dir1" > <b> dir1 </b> </a><br><a href="http://localhost:6789/root//doc1.docx" download="doc1.docx" > doc1.docx </a><br><a href="http://localhost:6789/root//file1.txt" download="file1.txt" > file1.txt </a><br></html>
+
+-----------------------------------------
+
+GET /root//assignment_1.pdf HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:40:28 BDT 2020
+Content-Type: application/force-download
+Content-Length: 595968
+
+root\assignment_1.pdf
+
+-----------------------------------------
+
+GET /root//12%20Years%20Of%20Slavery.mp4 HTTP/1.1
+
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Sat Mar 14 22:40:24 BDT 2020
+Content-Type: application/force-download
+Content-Length: 2092854272
+
+root\12 Years Of Slavery.mp4

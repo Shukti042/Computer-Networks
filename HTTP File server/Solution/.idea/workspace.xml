@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="612d02f0-7554-41bb-b2fa-71369b5d6ab5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Offline 1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcE4Ts57LfTeU4x2u2oKdNhOhA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\BUET\January 2020 term\CSE322_Computer_Networks_Sessional\Offline 1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HTTPServerSkeleton">
+    <configuration name="HTTPServerSkeleton" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTPServerSkeleton" />
+      <module name="Offline 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uploader" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uploader" />
+      <module name="Offline 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HTTPServerSkeleton" />
+      <item itemvalue="Application.Uploader" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HTTPServerSkeleton" />
+        <item itemvalue="Application.Uploader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612d02f0-7554-41bb-b2fa-71369b5d6ab5" name="Default Changelist" comment="" />
+      <created>1583233290967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583233290967</updated>
+      <workItem from="1583851229876" duration="185000" />
+      <workItem from="1583855999298" duration="461000" />
+      <workItem from="1583857519304" duration="1115000" />
+      <workItem from="1583959826965" duration="12774000" />
+      <workItem from="1583994811497" duration="3258000" />
+      <workItem from="1583998544079" duration="551000" />
+      <workItem from="1583977712907" duration="665000" />
+      <workItem from="1583978534255" duration="298000" />
+      <workItem from="1583979718250" duration="457000" />
+      <workItem from="1583995287831" duration="8362000" />
+      <workItem from="1584004598159" duration="10446000" />
+      <workItem from="1584149014173" duration="13199000" />
+      <workItem from="1584163841746" duration="27000" />
+      <workItem from="1584203757884" duration="304000" />
+      <workItem from="1584204105407" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584003291491">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="107" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584003291491" />
+    <state x="423" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1584014646442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="423" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584014646442" />
+    <state x="502" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583851251184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="502" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1583851251184" />
+    <state x="433" y="101" key="FileChooserDialogImpl" timestamp="1584001874295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="101" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584001874295" />
+    <state width="1202" height="78" key="GridCell.Tab.0.bottom" timestamp="1584204321792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="78" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584204321792" />
+    <state width="1202" height="78" key="GridCell.Tab.0.center" timestamp="1584204321791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="78" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584204321791" />
+    <state width="1202" height="78" key="GridCell.Tab.0.left" timestamp="1584204321791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="78" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584204321791" />
+    <state width="1202" height="78" key="GridCell.Tab.0.right" timestamp="1584204321791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="78" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584204321791" />
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom" timestamp="1583997538710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583997538710" />
+    <state width="1202" height="185" key="GridCell.Tab.1.center" timestamp="1583997538710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583997538710" />
+    <state width="1202" height="185" key="GridCell.Tab.1.left" timestamp="1583997538710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583997538710" />
+    <state width="1202" height="185" key="GridCell.Tab.1.right" timestamp="1583997538710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583997538710" />
+    <state x="215" y="79" width="874" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583997531749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="215" y="79" width="874" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1583997531749" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Offline_1$HTTPServerSkeleton.ic" NAME="HTTPServerSkeleton Coverage Results" MODIFIED="1583856462124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

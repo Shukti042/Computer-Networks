@@ -1,0 +1,3 @@
+UPLOAD F:\Movies\12 Years Of Slavery.mp4
+UPLOAD G:\CSE 318\Offline 1\assignment_1.pdf
+UPLOAD G:\CSE 318\Offline 1\ai_lab_1.pdf
