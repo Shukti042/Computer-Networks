@@ -1,0 +1,3 @@
+# Packet Tracer
+
+Full description about the tasks are in [Problem Description](https://github.com/Shukti042/Computer-Networks/blob/master/Packet%20Tracer/Problem%20Description.pdf) and the solutions are in [Solution Task A](https://github.com/Shukti042/Computer-Networks/blob/master/Packet%20Tracer/Solution-Task-A.pkt) and [Solution Task B](https://github.com/Shukti042/Computer-Networks/blob/master/Packet%20Tracer/Solution-Task-B.pkt). 
